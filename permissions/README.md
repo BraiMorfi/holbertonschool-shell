@@ -20,3 +20,4 @@
 ##Task 9. John Doe
 **chmod 753** command used to set the mode of the file hello to -rwxr-x-wx
 ##Task 10. Look in the mirror
+**chmod --reference=** command to copy file permissions and ownership to another file.
