@@ -14,4 +14,4 @@
 ##Task 6-multiple_permissions
 **chmod +114** command used to add execute persmission to the owner of the group owner and read permissions to the other users
 ##Task 7-everybody
-
+**chmod +111** command used to add execute permission to the owner of the group and the other users
