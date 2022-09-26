@@ -12,3 +12,6 @@
 ##Task 5-execute
 **chmod u+x** command used to add execute permission to the owner of the file
 ##Task 6-multiple_permissions
+**chmod +114** command used to add execute persmission to the owner of the group owner and read permissions to the other users
+##Task 7-everybody
+
