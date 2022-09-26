@@ -6,4 +6,6 @@
 ##Task 2-groups
 **groups** command used to print all the groups users
 ##Task 3-new_owner
-**chown** command used to change owner of file 
+**chown** command used to change owner of file
+##Task 4-empty
+**touch** command used to create file
