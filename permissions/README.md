@@ -9,3 +9,6 @@
 **chown** command used to change owner of file
 ##Task 4-empty
 **touch** command used to create file
+##Task 5-execute
+**chmod u+x** command used to add execute permission to the owner of the file
+##Task 6-multiple_permissions
